@@ -23,7 +23,7 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Movies ra na koa</a></li>
-            <li class="nav-items"><a href="#">HITAM STUDENTS ARE GOOD</a></li>
+            <li class="nav-items"><a href="#">HITAM STUDNTS ARE GOOD</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
