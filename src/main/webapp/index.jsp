@@ -22,7 +22,7 @@
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
-            <li class="nav-items"><a href="#">Mouuuuuies</a></li>
+            <li class="nav-items"><a href="#">Movies ra na kodaka</a></li>
             <li class="nav-items"><a href="#">HITAM STUDENTS ARE GOOD</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
